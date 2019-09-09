@@ -476,6 +476,7 @@ Haris Siddiqui
 - [Malik Mukhtar](htpps://github.com/malikmukhtar)
 - [Ece Deniz](https://github.com/exosolarplanet)
 - [Kartik Sama](https://github.com/Kartik-Sama)
+- Yal Krol
 - [Harman singh](https://github.com/Harman-singh-waraich)
 - [Aamir Soni](https://github.com/Aamir1551)
 - [Elizabeth Harkins](https://github.com/BetsL)
